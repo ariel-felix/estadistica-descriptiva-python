@@ -3,7 +3,7 @@
 
 Este notebook tiene como objetivo explorar algunas métricas involucradas en la estadística descriptiva, cómo pueden ser utilizadas y visualizadas. Por lo tanto, este no es un análisis completo, sino uno enfocado en aspectos estadísticos, complementando el texto disponible en Medium.
 
-Enlace de Medium: 🔗 [link](https://medium.com/@arielfelixmv)
+Enlace de Medium: 🔗 [link](https://medium.com/@arielfelixmv/estad%C3%ADstica-descriptiva-entendiendo-y-aplicando-medidas-con-python-11d0ab60093b)
 Enlace de la fuente de datos:🔗 [link](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset)
 
 
